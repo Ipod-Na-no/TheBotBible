@@ -95,19 +95,20 @@ Matches will be scored by a panel of judges (2-3) using the following criteria:
 
 ### Example 1:
 In this example, the weapon motor is mounted outside of the robot.  The motor is considered armor.  This is NOT ALLOWED.
-
+![alt text](/media/ex1.png)
 
 
 
 ### Example 2:
 Although the fasteners might be holding the weapon together, they serve as a weapon in this case.  This is NOT ALLOWED.
-
+![alt text](/media/ex2.png)
 
 
 
 ### Example 3:
 Large bolts must be recessed.  In this example, the bolt head will be armor. Some grace will be given in this area but what we are asking is that teams work to avoid a bolt serving as protective armor.   
 Best practice is to counterbore the bolt head into the chassis of the robot.
+![alt text](/media/ex3.png)
 
 ## Documentation: Although not required to compete, we are asking for some kind of minimum documentation to attest to the following:
 Robot is student designed 
