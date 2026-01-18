@@ -14,7 +14,7 @@ Requirements:
 - A Slic3r derived slicer (SuperSlicer, PrusaSlicer, OrcaSlicer) 
 _Many have had good luck with PrusaSlicer, including myself. Cura does not work._
 
--Python 3 on your computer. _I’ve had good luck with Python 3.11, 3.13, and 3.14._
+- Python 3 on your computer. _I’ve had good luck with Python 3.11, 3.13, and 3.14._
 
 ### If you need Python:
 
