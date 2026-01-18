@@ -48,7 +48,7 @@ Turn off Arc Fitting and bgcode. Results tend to be better.
 Check your file in a DEDICATED GCODE viewer. The slicer preview doesn’t show everything. This helps you find corrupt paths. 
 
 
-![alt text](https://github.com/Ipod-Na-no/TheBotBible/blob/main/media/corrupt.png)?raw=true)
+![alt text](https://github.com/Ipod-Na-no/TheBotBible/blob/main/media/corrupt.png?raw=true)
 _Looks pretty corrupt to me! I wouldn’t want to print that._
 
 
