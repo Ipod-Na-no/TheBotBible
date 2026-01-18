@@ -40,8 +40,8 @@ Some kinds of permitted batteries:
 - LiFe
 - LiPoly
 
-> [!TIP]
-> LiPoly/LiPo is by far the most common
+> [!NOTE]
+> LiPoly/LiPo is by far the most common and is a solid allrounder. 
 
 ### Weapons part 1:  
 
@@ -76,19 +76,22 @@ the weapon.   To be eligible to compete, the driver must demonstrate controlled 
 ###There are two ways to win:
 #1 - Knock-out or one robot is disabled.   If one of the robots falls or is pushed in the trap door, it counts as a knock-out.
 #2 - Judges' decision. If a match  goes the entire allotted time without one robot getting knocked out, the winner is determined by the judges based on the match score sheet.  
-Match Scoring:
+###Match Scoring:
+
 Matches will be scored by a panel of judges (2-3) using the following criteria: 
-Control 
-Damage 
-Aggression 
+- Control 
+- Damage 
+- Aggression
+- 
 ##Section 3: Inspection and Documentation 
 
 ### Inspection: 
-All bots must pass inspection to be eligible for the competition. In order to pass, bots must meet the following criteria: 
-Pass a fail safe procedure test as laid out in Section 1 (All functions must stop operating when power to the radio is switched off. This includes both weapon and drive operations)
-Meet weight requirements laid out in Section 1
-Have a light visible on the outside of the robot
-Be constructed in a manner consistent with guidelines laid out in    Section 1
+> [!WARNING]
+> All bots must pass inspection to be eligible for the competition. In order to pass, bots must meet the following criteria: 
+> - Pass a fail safe procedure test as laid out in Section 1 (All functions must stop operating when power to the radio is switched off. This includes both weapon and drive operations)
+> - Meet weight requirements laid out in Section 1
+> - Have a light visible on the outside of the robot
+> - Be constructed in a manner consistent with guidelines laid out in    Section 1
 
 ### Example 1:
 In this example, the weapon motor is mounted outside of the robot.  The motor is considered armor.  This is NOT ALLOWED.
