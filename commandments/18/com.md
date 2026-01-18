@@ -15,4 +15,4 @@ So unleash your inner "Serial Designation N” and get to work.
 >
 > _..._
 > 
-> _nevermind_
+> _Nevermind._
