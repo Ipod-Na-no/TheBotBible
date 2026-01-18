@@ -10,7 +10,7 @@ Using Imperial for bots is like building a house while using a spaghetti noodle 
 > [!IMPORTANT]
 > BattleBots parts and tools are calibrated in metric units. Parts want metric screws and have drawings in metric measurements. The League weighs bots in grams. It makes it easier to coordinate everything if you stick with metric.
 >
-> Mixing up a quarter and a quarter of a millimeter is a 25x difference.
+> Mixing up a quarter of an inch and a quarter of a millimeter is a 25x difference.
 
 > [!CAUTION]
 > Don't do it.
