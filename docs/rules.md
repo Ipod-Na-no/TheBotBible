@@ -69,6 +69,8 @@ the weapon.   To be eligible to compete, the driver must demonstrate controlled 
 ### Match Rules:
 - Matches last 2 minutes
 - Trap door opens at one minute
+> [!NOTE]
+> Arena 2 (The big one) has one trapdoor which remains open at all times.  
 - A robot may restrict movement of the opposing bot for a maximum of FIVE seconds before changing positions (ie. pinning, supporting, lifting)
 - If a robot becomes stuck due to the construction of the arena, not as a result of the opposing bot, the match will be stopped and the robot will be freed.
 - A robot may be unstuck a maximum of ONE time per match
