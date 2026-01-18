@@ -49,7 +49,9 @@ _Looks pretty corrupt to me! I wouldn’t want to print that._
 
 If your printer has a multicolor unit (Prusa MMU, Bambu AMS, Creality CFS, etc), disable it and use a single color profile. The script doesn’t know how to deal with filament changes. This does mean that you cannot run a non-planar multicolor print.
 
-_(Prusa MMU3 users: MMU3 enabled printers can read single color profile GCODEs with no issues or configuration changes. Disabling the MMU3 is not necessary. If you decide to disable the MMU3, keep the toolhead set to MMU3)_
+> [!TIP]
+> Prusa MMU3 users: MMU3 enabled printers can read single color profile GCODEs with no issues or configuration changes. Disabling the MMU3 is not necessary.
+> If you decide to disable the MMU3, keep the toolhead set to MMU3
 
 Toolchanging/IDEX/Dual Nozzle printers (Prusa XL, Bambu H2D, E3D Toolchanger, etc) may only use one tool.
 
