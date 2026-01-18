@@ -1,7 +1,7 @@
 # Bitey
 Bitey is a script made to find a weapon's energy, which is required to find a weapon's bite. 
 
-To use it, you must have Python installed. [www.python.com] 
+To use it, you must have Python installed. [www.python.org] 
 
 > [!TIP]
 > Open Windows Terminal as Administrator and run this command.
