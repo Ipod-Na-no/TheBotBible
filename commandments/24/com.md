@@ -1,4 +1,4 @@
-# 4: Fusion is the destroyer of worlds. Treat it with respect. 
+# 24: Fusion is the destroyer of worlds. Treat it with respect. 
 Why: If you’ve got 200 parametric features and you change one, say goodbye to your computer, as it’s going up in flames.
 
 This can also happen with models with a lot of faces, such as those created from raw STLs.
