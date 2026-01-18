@@ -55,9 +55,9 @@ Welcome to the centeral hub for all things BattleBots!
 
 - 18: No matter how fancy your printer is, know how to fix it. 
 
-- 19: Don’t drive a BattleBot inside of a moving vehicle.
+- 19: TBA
 
-- 20: If you are having thoughts of building an AI, let me know, because that’s not normal.
+- 20: TBA
 
 - 21: Don’t trust a perfect person and don’t trust a bot that’s flawless. Honest.
 
