@@ -12,7 +12,7 @@ To use it, you must have Python installed. [www.python.org]
 >
 > This will give you the most up to date version of Python.
 
-Run this command to run the script the required packages:
+Run this command to run the script:
 
 `pip install numpy ttkbootstrap trimesh`
 
