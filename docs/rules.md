@@ -3,32 +3,37 @@
 ## SECTION 1: Robot Construction and Functionality
 
 ### Construction: 
-The chassis, weapon, and lid of the robot must be 3D printed using approved materials - see next section for specifics.   
-Machined or cut parts from a block or sheet of plastic material are NOT allowed.
+- The chassis, weapon, and lid of the robot must be 3D printed using approved materials - see next section for specifics.   
+- Machined or cut parts from a block or sheet of plastic material are NOT allowed.
 
 ### Materials:  Plastic Class means that the construction materials must be 3D printed plastic as described below:
-PET, PETG, ABS, PLA, Tough PLA, or PLA+ are the only materials that can be used for the chassis. lid, and weapons. No other types of filament are allowed (Super PLA Plus, TPU, Carbon Fiber, etc).   
-Kit Bots - Robots must be student designed.  The only exception is the Fall Dustup.  All other events must have a student designed robot.  If a kit was purchased, then the documentation should show what was modified.     
-Motors, wheels, electronics, axles, fasteners and adhesives can be any material, but cannot be used in such a way to enhance the structural integrity, armor the robot, or enhance any weapon.  See appendix for examples of rule violations
-Tape and zip ties may be used internally (wire management for example)  but may not be used to enhance structure of the weapon or chassis.  
-Event Directors make final decisions on gray areas and have the right to reinspect any robot at any time during the tournament.
+- PET, PETG, ABS, PLA, Tough PLA, or PLA+ are the only materials that can be used for the chassis. lid, and weapons. No other types of filament are allowed (Super PLA Plus, TPU, Carbon Fiber, etc).   
+- Kit Bots - Robots must be student designed.  The only exception is the Fall Dustup.  All other events must have a student designed robot.  If a kit was purchased, then the documentation should show what was modified.     
+- Motors, wheels, electronics, axles, fasteners and adhesives can be any material, but cannot be used in such a way to enhance the structural integrity, armor the robot, or enhance any weapon.  See appendix for examples of rule violations
+- Tape and zip ties may be used internally (wire management for example)  but may not be used to enhance structure of the weapon or chassis.  
+- Event Directors make final decisions on gray areas and have the right to reinspect any robot at any time during the tournament.
 
 ### Weight:  Robots must be equal to or less than the following weights:
-1.00 pounds
-16.00 ounces 
-453.59 grams.  We will be using a gram scale at events.  454g is the maximum allowed weight.
+- 1.00 pounds
+- 16.00 ounces 
+- 453.59 grams.
+_We will be using a gram scale at events.  454g is the maximum allowed weight._
 
 ### Safety: 
-All Robots must have a light easily visible from the outside of the robot that shows its main power is activated.
-Name of the robot is clearly visible on the bot - engraved or embossed is preferred.
-All robots must be able to be FULLY deactivated, which includes power to drive and weaponry, in under 60 seconds by a manual disconnect
-On Match Day, robots will pass inspection (weight, materials, failsafe).
+- All Robots must have a light easily visible from the outside of the robot that shows its main power is activated.
+- Name of the robot is clearly visible on the bot - engraved or embossed is preferred.
+- All robots must be able to be FULLY deactivated, which includes power to drive and weaponry, in under 60 seconds by a manual disconnect
+- On Match Day, robots will pass inspection (weight, materials, failsafe).
 
 ### Radio System:  
-All robots must be radio controlled with 2.4 GHz spread spectrum radio.  No tethered robots allowed. 
-If a robot has a weapon, then all robot systems (drive and weapon) must come to a stop when the transmitter loses power or loses signal.
+- All robots must be radio controlled with 2.4 GHz spread spectrum radio.  No tethered robots allowed. 
+- If a robot has a weapon, then all robot systems (drive and weapon) must come to a stop when the transmitter loses power or loses signal.
 
-### Batteries: Examples of batteries that are permitted: NiCads, NiMh, LIon, LiFe, LiPoly. 
+### Batteries: 
+
+Examples of batteries that are permitted: 
+
+- NiCads, NiMh, LIon, LiFe, LiPoly. 
 
 ### Weapons part 1:  Robots must have an active weapon.  No wedge-only robots are allowed.  Weapons can be flipper or some kinds of spinning weapon.
 
