@@ -1,4 +1,4 @@
-# The Bot Bible
+# The Bot Bible™
 
 Welcome to the centeral hub for all things BattleBots!
 
