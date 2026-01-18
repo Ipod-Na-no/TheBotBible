@@ -1,4 +1,4 @@
-Non Planar GCODE:
+# Non Planar GCODE:
 (Brick Layers, Non-Planar Infill, Alternating/Interlocking Walls)
 
 Non-Planar printing techniques are part of Afterburner’s secret sauce. I had great luck with interlocking walls!
@@ -49,6 +49,7 @@ Check your file in a DEDICATED GCODE viewer. The slicer preview doesn’t show e
 
 
 ![alt text](https://github.com/Ipod-Na-no/TheBotBible/blob/main/media/corrupt.png?raw=true)
+
 _Looks pretty corrupt to me! I wouldn’t want to print that._
 
 
