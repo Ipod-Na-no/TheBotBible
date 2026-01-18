@@ -67,4 +67,4 @@ Welcome to the centeral hub for all things BattleBots!
 
 - 24: Fusion is the destroyer of worlds. Treat it with respect. 
 
-- 25: Whatever you do, DO NO—     ㅤㅤㅤ
+- **25: Whatever you do, DO NO—**     ㅤㅤㅤ
