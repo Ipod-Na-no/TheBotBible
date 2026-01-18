@@ -17,6 +17,7 @@
 - 1.00 pounds
 - 16.00 ounces 
 - 453.59 grams.
+  
 _We will be using a gram scale at events.  454g is the maximum allowed weight._
 
 ### Safety: 
@@ -31,33 +32,49 @@ _We will be using a gram scale at events.  454g is the maximum allowed weight._
 
 ### Batteries: 
 
-Examples of batteries that are permitted: 
+Some kinds of permitted batteries: 
 
-- NiCads, NiMh, LIon, LiFe, LiPoly. 
+- NiCad
+- NiMh
+- LIon
+- LiFe
+- LiPoly
 
-### Weapons part 1:  Robots must have an active weapon.  No wedge-only robots are allowed.  Weapons can be flipper or some kinds of spinning weapon.
+> [!TIP]
+> LiPoly/LiPo is by far the most common
 
-### Weapons  part 2:  While a variety of spinning weapons are encouraged, there are some weapon systems that are not allowed:
-RF jamming 
-EMF fields that affect another robot’s electronics
-Entangling weapons (nets, tapes, strings, or other materials that entangle).
-Liquids, foams, gasses, powders, sand etc
-Untethered projectiles
-Fire, combustibles
-Light and smoke that impair the viewing of a robot
-Not allowed to physically engulf your opponent
-Controlled Motion:  Robots must have controlled motion.  Typically robots have wheels which are controlled by the operator, but there are other ways to control the motion of the robot such as a shuffler or gyro forces from the weapon.   To be eligible to compete, the driver must demonstrate controlled motion during inspection.  
+### Weapons part 1:  
+
+Robots must have an active weapon.  No wedge-only robots are allowed.  Weapons can be flipper or some kinds of spinning weapon.
+
+### Weapons  part 2:  
+
+While a variety of spinning weapons are encouraged, there are some weapon systems that are not allowed:
+- RF jamming 
+- EMF fields that affect another robot’s electronics
+- Entangling weapons (nets, tapes, strings, or other materials that entangle).
+- Liquids, foams, gasses, powders, sand etc
+- Untethered projectiles
+- Fire, combustibles
+- Light and smoke that impair the viewing of a robot
+- Not allowed to physically engulf your opponent
+
+###Controlled Motion:  
+
+Robots must have controlled motion.  Typically robots have wheels which are controlled by the operator, but there are other ways to control the motion of the robot such as a shuffler or gyro forces from
+the weapon.   To be eligible to compete, the driver must demonstrate controlled motion during inspection.  
 
 ## Section 2: Match Rules and Scoring 
 
 ### Match Rules:
-Matches last 2 minutes
-Trap door opens at one minute
-A robot may restrict movement of the opposing bot for a maximum of FIVE seconds before changing positions (ie. pinning, supporting, lifting)
-If a robot becomes stuck due to the construction of the arena, not as a result of the opposing bot, the match will be stopped and the robot will be freed.
-A robot may be unstuck a maximum of ONE time per match
+- Matches last 2 minutes
+- Trap door opens at one minute
+- A robot may restrict movement of the opposing bot for a maximum of FIVE seconds before changing positions (ie. pinning, supporting, lifting)
+- If a robot becomes stuck due to the construction of the arena, not as a result of the opposing bot, the match will be stopped and the robot will be freed.
+- A robot may be unstuck a maximum of ONE time per match
+- 
 ###There are two ways to win:
- #1 - Knock-out or one robot is disabled.   If one of the robots falls or is pushed in the trap door, it counts as a knock-out.
+#1 - Knock-out or one robot is disabled.   If one of the robots falls or is pushed in the trap door, it counts as a knock-out.
 #2 - Judges' decision. If a match  goes the entire allotted time without one robot getting knocked out, the winner is determined by the judges based on the match score sheet.  
 Match Scoring:
 Matches will be scored by a panel of judges (2-3) using the following criteria: 
