@@ -88,7 +88,7 @@ Matches will be scored by a panel of judges (2-3) using the following criteria:
 ## Section 3: Inspection and Documentation 
 
 ### Inspection: 
-> [!WARNING]
+> [!IMPORTANT]
 > All bots must pass inspection to be eligible for the competition. In order to pass, bots must meet the following criteria: 
 > - Pass a fail safe procedure test as laid out in Section 1 (All functions must stop operating when power to the radio is switched off. This includes both weapon and drive operations)
 > - Meet weight requirements laid out in Section 1
