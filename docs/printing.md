@@ -6,16 +6,17 @@ Non-Planar printing techniques are part of Afterburner’s secret sauce. I had g
 However, this process is inherently difficult. 
 
 Requirements:
-A 3D printer with a low nozzle (clearance between the heat block and the tip) that can accept modified ASCII GCODE
 
-If you are trying to print with Brick Layers, you cannot use a Bambulabs printer or Bambu Studio. From what I know, interlocking walls should work just fine.
+- A 3D printer with a low nozzle (clearance between the heat block and the tip) that can accept modified ASCII GCODE
 
-A Slic3r derived slicer (SuperSlicer, PrusaSlicer, OrcaSlicer) 
-Many have had good luck with PrusaSlicer, including myself. Cura does not work.
+- If you are trying to print with Brick Layers, you cannot use a Bambulabs printer or Bambu Studio. From what I know, interlocking walls should work just fine.
 
-Python 3 on your computer. I’ve had good luck with Python 3.11, 3.13, and 3.14. 
+- A Slic3r derived slicer (SuperSlicer, PrusaSlicer, OrcaSlicer) 
+_Many have had good luck with PrusaSlicer, including myself. Cura does not work._
 
-## If you need Python:
+-Python 3 on your computer. _I’ve had good luck with Python 3.11, 3.13, and 3.14._
+
+### If you need Python:
 
 Open Terminal as an administrator.
 
@@ -41,7 +42,7 @@ If you choose to continue, here’s the [Repository.](https://github.com/TengerT
 
 
 
-### Tips:
+## Tips:
 
 Turn off Arc Fitting and bgcode. Results tend to be better.
 
