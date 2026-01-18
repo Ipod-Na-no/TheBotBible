@@ -11,4 +11,8 @@ I know. They’re awesome. I love my Prusa MK4S. It's super reliable, but I coul
 Maintenance and repairs might require some disassembly.
 
 So unleash your inner "Serial Designation N” and get to work.  
-> _Get it, because he's a disassembly drone? ...nevermind_
+> _Get it, because he's a disassembly drone?_
+>
+> _..._
+> 
+> _nevermind_
