@@ -1,11 +1,11 @@
 # 13: Maximize K (Kinetic Energy). Thank me later.
 Why: The more kinetic energy your weapon has, the more damage you’ll do. 
 
-> Here's where a really complex equation for calculating rotational kinetic energy would go. I did terrify a few people. I then taunted them, asking them if they were ready to quit.
+> _Here's where a really complex equation for calculating rotational kinetic energy would go. I did terrify a few people. I then taunted them, asking them if they were ready to quit._
 > 
-> Heh.
+> _Heh._
 > 
-> When rewriting the Bot Bible™, I ommited that, as it just served to confuse people.
+> _When rewriting the Bot Bible™, I ommited that, as it just served to confuse people._
 
 I actually made a script to calculate kinetic energy, as calculating that by hand requires some pretty insane calculus. Instructions can be found inside this folder.
 
@@ -26,6 +26,6 @@ I actually made a script to calculate kinetic energy, as calculating that by han
 
 I don’t recommend Asymmetric spinners for your first bot. They are notoriously difficult to balance and design while still maintaining high energy.
 
-> If you’re currently trying to prove yourself as smart by doing it by hand, you’re probably procrastinating. Go improve your BattleBot’s design files.
+> _If you’re currently trying to prove yourself as smart by doing it by hand, you’re probably procrastinating. Go improve your BattleBot’s design files._
 >
-> You’re telling me it’s perfect!? LIAR!
+> _You’re telling me it’s perfect!? LIAR!_
