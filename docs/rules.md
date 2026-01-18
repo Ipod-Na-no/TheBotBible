@@ -59,7 +59,7 @@ While a variety of spinning weapons are encouraged, there are some weapon system
 - Light and smoke that impair the viewing of a robot
 - Not allowed to physically engulf your opponent
 
-###Controlled Motion:  
+### Controlled Motion:  
 
 Robots must have controlled motion.  Typically robots have wheels which are controlled by the operator, but there are other ways to control the motion of the robot such as a shuffler or gyro forces from
 the weapon.   To be eligible to compete, the driver must demonstrate controlled motion during inspection.  
