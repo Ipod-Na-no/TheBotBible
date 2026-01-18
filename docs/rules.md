@@ -111,7 +111,7 @@ Best practice is to counterbore the bolt head into the chassis of the robot.
 ![alt text](/media/ex3.png)
 
 ## Documentation: Although not required to compete, we are asking for some kind of minimum documentation to attest to the following:
-Robot is student designed 
-If a kit is purchased the documentation shows how the student modified the design.  
-Attests to approved materials being used in print the robot
+- Robot is student designed 
+- If a kit is purchased the documentation shows how the student modified the design.  
+- Attests to approved materials being used in print the robot
 
