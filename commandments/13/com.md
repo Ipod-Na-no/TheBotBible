@@ -14,9 +14,12 @@ I actually made a script to calculate kinetic energy, as calculating that by han
 >
 > $`I = \int r^2dm \Leftrightarrow  \Sigma mr^2`$
 >
-> English translation:
+> Layman's terms:
 > 
 > Kinetic energy (At least in the rotational form) is a function of rotational inertia and angular velocity (spinning speed) squared. Rotational inertia is a function of mass and radius squared.
+>
+> The more mass situated at the edge and the faster its spinning, the better.
+
 
 > [!NOTE]
 > Asymmetric spinners are weaker than Symmetric spinners on paper, but Asyms. have their own advantages, such as better handling, more concentrated torque, and flipping capabilities for Asym. Verticals.
