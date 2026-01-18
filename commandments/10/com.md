@@ -5,7 +5,7 @@ Why: “The Brow” was the one of the two BattleBots we brought to the chapter�
 “Solder Saver” was a BattleBot that participated at SLC 2025. It used the guts of an RC car instead of bespoke electronics. It became the “Underdog” at every match it fought in. Every team collectively cheered them on.
 
 > Side note: I mentioned “Cheese Scallion.” That was my first bot. 
-> It was Not Great™, but ended up becoming the precursor to Flarejump and Afterburner. Parts of Cheese Scallion still exist in Flarejump’s files.
+> It was Not Great™, but ended up becoming the precursor to Flarejump and Afterburner. Parts of Cheese Scallion still exist in Afterburner's files.
 >
 > Go figure.
 >
