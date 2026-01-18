@@ -30,11 +30,11 @@ Type `winget install python3`
 
 - You must be very comfortable with your 3D printer. 
 
-- YOU MAY DAMAGE YOUR PRINTER with corrupted paths.
+**- YOU MAY DAMAGE YOUR PRINTER with corrupted paths.
 
 - YOU MAY DAMAGE YOUR PRINTER due to incorrect clearances.
 
-- I am NOT RESPONSIBLE for damage to your printer.
+- I am NOT RESPONSIBLE for damage to your printer.**
 
 - If you are not comfortable with these risks, DO NOT TRY THIS!
 
