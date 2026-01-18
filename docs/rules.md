@@ -75,17 +75,17 @@ the weapon.   To be eligible to compete, the driver must demonstrate controlled 
 - If a robot becomes stuck due to the construction of the arena, not as a result of the opposing bot, the match will be stopped and the robot will be freed.
 - A robot may be unstuck a maximum of ONE time per match
   
-###There are two ways to win:
-#1 - Knock-out or one robot is disabled.   If one of the robots falls or is pushed in the trap door, it counts as a knock-out.
-#2 - Judges' decision. If a match  goes the entire allotted time without one robot getting knocked out, the winner is determined by the judges based on the match score sheet.  
-###Match Scoring:
+### There are two ways to win:
+1. Knock-out or one robot is disabled.   If one of the robots falls or is pushed in the trap door, it counts as a knock-out.
+2.  Judges' decision. If a match  goes the entire allotted time without one robot getting knocked out, the winner is determined by the judges based on the match score sheet.  
+### Match Scoring:
 
 Matches will be scored by a panel of judges (2-3) using the following criteria: 
 - Control 
 - Damage 
 - Aggression
-- 
-##Section 3: Inspection and Documentation 
+  
+## Section 3: Inspection and Documentation 
 
 ### Inspection: 
 > [!WARNING]
