@@ -13,7 +13,8 @@ Welcome to the centeral hub for all things BattleBots!
 - Tips, tricks, experiences, and guides
   
 ## What This Repo Is NOT
-- Where I hid Afterburner's design files
+- Where I hid Afterburner's design files. Cry me a river
 - A place to ask questions. Go to the Discord server for that
-- Instructions on how to build a perfect bot
-  
+- Instructions on how to build a perfect bot. Check Commandment 21
+
+
