@@ -21,22 +21,22 @@ _Many have had good luck with PrusaSlicer, including myself. Cura does not work.
 Open Terminal as an administrator.
 
 Type `winget install python3`
+> [!WARNING]
+> # Before even attempting to run the script, understand these conditions:
 
-# Before even attempting to run the script, understand these conditions:
+> - You must be fluent in Marlin GCODE. Python experience helps too. 
 
-- You must be fluent in Marlin GCODE. Python experience helps too. 
+> - You must be comfortable with modifying slicers and reading terminal outputs.
 
-- You must be comfortable with modifying slicers and reading terminal outputs.
+> - You must be very comfortable with your 3D printer. 
 
-- You must be very comfortable with your 3D printer. 
+> - **YOU MAY DAMAGE YOUR PRINTER with corrupted paths.**
 
-- **YOU MAY DAMAGE YOUR PRINTER with corrupted paths.**
+> - **YOU MAY DAMAGE YOUR PRINTER due to incorrect clearances.**
 
-- **YOU MAY DAMAGE YOUR PRINTER due to incorrect clearances.**
+> - **I am NOT RESPONSIBLE for damage to your printer.**
 
-- **I am NOT RESPONSIBLE for damage to your printer.**
-
-- If you are not comfortable with these risks, DO NOT TRY THIS!
+> - If you are not comfortable with these risks, DO NOT TRY THIS!
 
 If you choose to continue, here’s the [Repository.](https://github.com/TengerTechnologies/Bricklayers/tree/main) 
 
