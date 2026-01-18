@@ -19,7 +19,7 @@ Python 3 on your computer. I’ve had good luck with Python 3.11, 3.13, and 3.14
 
 Open Terminal as an administrator.
 
-Type “winget install python3”
+Type `winget install python3`
 
 # Before even attempting to run the script, understand these conditions:
 
@@ -37,11 +37,11 @@ Type “winget install python3”
 
 - If you are not comfortable with these risks, DO NOT TRY THIS!
 
-If you choose to continue, here’s the Repository. 
+If you choose to continue, here’s the [Repository.](https://github.com/TengerTechnologies/Bricklayers/tree/main) 
 
 
 
-Tips:
+### Tips:
 
 Turn off Arc Fitting and bgcode. Results tend to be better.
 
@@ -55,7 +55,7 @@ _Looks pretty corrupt to me! I wouldn’t want to print that._
 
 If your printer has a multicolor unit (Prusa MMU, Bambu AMS, Creality CFS, etc), disable it and use a single color profile. The script doesn’t know how to deal with filament changes. This does mean that you cannot run a non-planar multicolor print.
 
-(Prusa MMU3 users: MMU3 enabled printers can read single color profile GCODEs with no issues or configuration changes. Disabling the MMU3 is not necessary. If you decide to disable the MMU3, keep the toolhead set to MMU3)
+_(Prusa MMU3 users: MMU3 enabled printers can read single color profile GCODEs with no issues or configuration changes. Disabling the MMU3 is not necessary. If you decide to disable the MMU3, keep the toolhead set to MMU3)_
 
 Toolchanging/IDEX/Dual Nozzle printers (Prusa XL, Bambu H2D, E3D Toolchanger, etc) may only use one tool.
 
