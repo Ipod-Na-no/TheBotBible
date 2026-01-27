@@ -2,6 +2,10 @@
 
 Welcome to the centeral hub for all things BattleBots!
 
+Other Important Links:
+[Team Tracker](https://docs.google.com/spreadsheets/d/1EfPvo6B6phKRS0qBk7WG3IhD7ufUk5nYamg3EVpSCyw/edit?usp=sharing)
+[Parts List](https://docs.google.com/spreadsheets/d/1JOmhijHOOkJaDqWTTNH7C8j5QWDtT-Tvx5C7_y50zHk/edit?usp=sharing)
+
 ## This Repo exists so:
 - Knowledge can be passed down from graduates
 - Teams don't have to reinvent the wheel (...again)
