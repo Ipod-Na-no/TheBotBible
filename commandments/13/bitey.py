@@ -177,7 +177,7 @@ class InertiaApp:
             out = []
             out.append(f"Timestamp: {datetime.datetime.now().isoformat()}")
             out.append(f"File: {self.file_path}")
-            out.append(f"Material density: {density} kg/m^3, https://forms.gle/vRpQpNHDVG9JmBni7")
+            out.append(f"Material density: {density} kg/m^3")
             out.append(f"Units scale applied: 1 mesh-unit = {scale} m")
             out.append(f"Mass (kg): {human_float(mass,6)}")
             out.append(f"Center of mass (m): [{human_float(com[0])}, {human_float(com[1])}, {human_float(com[2])}]")
@@ -207,3 +207,4 @@ if __name__ == '__main__':
     root = tb.Window(themename="superhero")
     app = InertiaApp(root)
     root.mainloop()
+
