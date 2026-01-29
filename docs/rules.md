@@ -18,7 +18,7 @@
 - 16.00 ounces 
 - 453.59 grams.
   
-_We will be using a gram scale at events.  454g is the maximum allowed weight._
+_OBL will be using a gram scale at events.  454g is the maximum allowed weight._
 
 ### Safety: 
 - All Robots must have a light easily visible from the outside of the robot that shows its main power is activated.
