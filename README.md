@@ -51,7 +51,7 @@ Other Important Links:
 
 - 14: Log your work in some way. 
 
-- 15: Fumes = Not good. Avoid them. Printing PLA and PETG does not release fumes. ABS does.
+- 15: Fumes = Not good. Avoid them.
 
 - 16: Practice driving BEFORE the competition.
 
