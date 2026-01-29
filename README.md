@@ -1,25 +1,25 @@
 # The Bot Bible™
 
-Welcome to the centeral hub for all things BattleBots!
+Welcome to the central hub for all things BattleBots!
 
 Other Important Links:
 [Team Tracker](https://docs.google.com/spreadsheets/d/1EfPvo6B6phKRS0qBk7WG3IhD7ufUk5nYamg3EVpSCyw/edit?usp=sharing)
 [Parts List](https://docs.google.com/spreadsheets/d/1JOmhijHOOkJaDqWTTNH7C8j5QWDtT-Tvx5C7_y50zHk/edit?usp=sharing)
 
 ## This Repo exists so:
-- Knowledge can be passed down from graduates
-- Teams don't have to reinvent the wheel (...again)
-- Dumpster fires are kept to a minimum
+- Knowledge can be passed down from graduates.
+- Teams don't have to reinvent the wheel (...again).
+- Dumpster fires are kept to a minimum.
 
 ## What this Repo is:
-- Open-source documentation for everyone, regardless of skill, team, or time
-- A way to build standards across teams and to unify the chapter
-- Tips, tricks, experiences, and guides
+- Open-source documentation for everyone, regardless of skill, team, or time.
+- A way to build standards across teams and to unify the chapter.
+- Tips, tricks, experiences, and guides.
   
 ## What This Repo Is NOT
-- Where I hid Afterburner's design files. Cry me a river
-- A place to ask questions. Go to the Discord server for that
-- Instructions on how to build a perfect bot. Check Commandment 21
+- Where I hid Afterburner's design files. Cry me a river.
+- A place to ask questions. Go to the Discord server for that.
+- Instructions on how to build a perfect bot. Check Commandment 21.
 
 
 # The Twenty-five Commandments:
@@ -41,7 +41,7 @@ Other Important Links:
 
 - 09: The arena is hungry.
 
-- 10: “The Brow” and “Solder Saver” are sacred. Do not speak of them in vain,
+- 10: “The Brow” and “Solder Saver” are sacred. Do not speak of them in vain.
 
 - 11: Don’t print anything important the day before the competition.
 
