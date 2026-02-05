@@ -47,7 +47,7 @@ Cons:
 
 The IA6B is much more capable than the FS2A, but the extra features don't make up for the extra weight for most bots. 
 
-Flippers take advantage of its servo control capabilites, while more unorthodox spinners like Afterburner utilize it to take advantage of custom firmware and electronics.
+Flippers take advantage of its servo control capabilites, while heavily customised bots like Afterburner utilize it to take advantage of custom firmware and electronics.
 
 Most bots are better off using the FS2A, saving valuable weight in doing so.
 
@@ -59,3 +59,7 @@ Most bots are better off using the FS2A, saving valuable weight in doing so.
 >The IA6B is the best choice out of the three. Reliable, fully featured, and balanced.
 >
 >The IA10B is usually unnecessary. You don't need 10 channels for Antweights. If for some reason you do, it's a fine choice. Keep in mind that the IA10B needs an I6X to function correctly.
+
+## Setup
+1. Turn it on.
+2. Cry.
