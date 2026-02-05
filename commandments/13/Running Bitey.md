@@ -6,7 +6,7 @@ To use it, you must have Python installed. [www.python.org]
 > [!TIP]
 > You can use a terminal app to quickly install Python. Open the app and use the command that matches your OS.
 > 
-> Windows:
+> ### Windows:
 >
 > Use Windows Terminal, Powershell, or CMD
 > 
@@ -26,19 +26,19 @@ To use it, you must have Python installed. [www.python.org]
 > `bash brew install python`
 >
 > 
-> Debian (Ubuntu, Mint, Raspberry Pi OS, etc):
+> ### Debian (Ubuntu, Mint, Raspberry Pi OS, etc):
 >
 > Use Terminal. You'll need superuser privileges.
 > 
 > `sudo apt install python3`
 >
-> Red Hat (RHEL, Fedora):
+> ### Red Hat (RHEL, Fedora):
 >
 > Use Terminal (Fedora KDE: Use Konsole), You'll need superuser privileges.
 > 
 > `sudo dnf install python3`
 >
-> By the way, just know that you're an absolute CHAD.
+> > By the way, just know that you're an absolute CHAD.
 > 
 >
 > This will give you the most up to date version of Python.
