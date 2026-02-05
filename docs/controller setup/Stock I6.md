@@ -60,6 +60,16 @@ Most bots are better off using the FS2A, saving valuable weight in doing so.
 >
 >The IA10B is usually unnecessary. You don't need 10 channels for Antweights. If for some reason you do, it's a fine choice. Keep in mind that the IA10B needs an I6X to function correctly.
 
-## Setup
-1. Turn it on.
-2. Cry.
+## Getting started with the I6
+Both I6 controllers require 4 AA batteries to function. They tend to last a while while running the stock I6 firmware. 
+
+>[!TIP]
+>Get some good, high quality batteries and make sure they're not low before competing.
+>
+>Maybe bring some spares...
+
+The controller can be turned on with the power switch on the front.
+
+>Baby steps... this is probably the most difficult part of the hobby...
+
+
