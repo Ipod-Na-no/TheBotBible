@@ -5,7 +5,8 @@ To use it, you must have Python installed. [www.python.org]
 
 > [!TIP]
 > You can use a terminal app to quickly install Python. Open the app and use the command that matches your OS.
-> 
+>
+> &nbsp;
 > ### Windows:
 >
 > Use Windows Terminal, Powershell, or CMD
@@ -25,13 +26,14 @@ To use it, you must have Python installed. [www.python.org]
 > 
 > `bash brew install python`
 >
-> 
+> &nbsp;
 > ### Debian (Ubuntu, Mint, Raspberry Pi OS, etc):
 >
 > Use Terminal. You'll need superuser privileges.
 > 
 > `sudo apt install python3`
 >
+> &nbsp;
 > ### Red Hat (RHEL, Fedora):
 >
 > Use Terminal (Fedora KDE: Use Konsole), You'll need superuser privileges.
@@ -40,7 +42,16 @@ To use it, you must have Python installed. [www.python.org]
 >
 > > By the way, just know that you're an absolute CHAD.
 > 
+> &nbsp;
+> ### "btw i use arch" (Arch, EndeavorOS, Manjaro):
 >
+> Use whatever terminal app you have installed. You'll need superuser privileges.
+>
+> `sudo pacman -S python`
+>
+> > If it wasn't clear, I have absolutely no idea how Arch works. Your mileage may vary.
+>
+> &nbsp;
 > This will give you the most up to date version of Python.
 
 Run this command to run the script:
