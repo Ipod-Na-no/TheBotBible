@@ -15,7 +15,7 @@ To use it, you must have Python installed. [www.python.org]
 > `python -m ensurepip --upgrade`
 >
 > 
-> MacOS:
+> ### MacOS:
 >
 > Use Terminal. You'll need to install Homebrew first.
 > 
