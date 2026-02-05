@@ -9,5 +9,6 @@ After you have Python installed, run this command in ther terminal of your choic
 
 `python3 C:/path/to/file/bitey.py`
 
+&nbsp;
 > [!NOTE]
 > Replace /path/to/file to the location of Bitey on your PC.
