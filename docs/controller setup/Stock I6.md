@@ -78,6 +78,8 @@ The controller can be turned on with the power switch on the front.
 > Oh? You want a visual?
 >
 > For the whole guide?
+
 &nbsp;
+
 > Okay, fine. 
 
