@@ -72,4 +72,12 @@ The controller can be turned on with the power switch on the front.
 
 >Baby steps... this is probably the most difficult part of the hobby...
 
+&nbsp;
+&nbsp;
+
+> Oh? You want a visual?
+>
+> For the whole guide?
+&nbsp;
+> Okay, fine. 
 
